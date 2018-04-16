@@ -1,0 +1,23 @@
+@media screen and (min-width:1200px){
+  .container{
+    width: 80%;
+    margin: 0 auto;
+    background: rgb(206, 206, 206);
+  }
+  .page-header{
+    height: 60px;
+    background: #FF742B;
+    position: relative;
+  }
+}
+
+.logo-wrapper{
+  width: 230px;
+  float: left;
+}
+.search-wrapper{
+  float: left;
+}
+.nav-link-setting{
+  position: absolute;
+}
